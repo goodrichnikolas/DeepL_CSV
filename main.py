@@ -50,7 +50,7 @@ def write_to_csv(data):
     show_strings(sp_en_response)
     
 def deepl_translate(data):
-    api_key = 'b86af888-a93c-5c99-9e3e-684ddedf564d:fx'
+    api_key = 'API KEY HERE'
     #take the data and translate it into Spanish
     url = 'https://api-free.deepl.com/v2/translate'
     params = {'auth_key': api_key, 'text': data, 'target_lang': 'ES'}
