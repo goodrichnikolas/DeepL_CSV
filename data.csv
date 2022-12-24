@@ -1,0 +1,27 @@
+data,english,spanish
+,"oint, and Zendesk. Enable your global teams ","oint, y Zendesk. Habilite a sus equipos globales"
+,ggers on your popup message,ggers en su mensaje emergente
+,"If you want to create a simple information message box with Python and Tkinter, you can use the code given below:","Si desea crear un simple cuadro de mensaje de información con Python y Tkinter, puede utilizar el código que se indica a continuación:"
+,"6 — Try parent_window.maxsize(x,x); to set the max","6 - Prueba parent_window.maxsize(x,x); para establecer el max"
+,"def show_strings(strings):
+    root = tk.Tk()
+    root.title(""Strings"")
+
+    label1 = tk.Label(root, text=strings[0])
+    label1.pack()
+    label2 = tk.Label(root, text=strings[1])
+    label2.pack()
+
+    root.mainloop()","def mostrar_cadenas(cadenas):
+    root = tk.Tk()
+    root.title(""Cadenas"")
+
+    label1 = tk.Label(root, text=cadenas[0])
+    label1.pack()
+    label2 = tk.Label(root, text=cadenas[1])
+    label2.pack()
+
+    root.mainloop()"
+,"In this article, we are going to change the font-size of the Label Widget.","En este artículo, vamos a cambiar el tamaño de la fuente del Widget Etiqueta."
+,age: To display a static image,edad: Para mostrar una imagen estática
+,"How do I get a Tkinter application to jump to the front? Currently, the window appears behind all my other windows and doesn't get focus.","¿Cómo consigo que una aplicación Tkinter salte al frente? Actualmente, la ventana aparece detrás de todas mis otras ventanas y no obtiene el foco."
